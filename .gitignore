@@ -1,0 +1,14 @@
+# Git
+.git/
+
+# Editor / IDE
+*.swp
+*.swo
+*~
+.vim/
+.idea/
+.vscode/
+
+# Backup files
+*.bak
+*.backup
